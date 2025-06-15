@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
+*.pid
+*.db
+.env
+.env.*
+
+# Airflow
+airflow.cfg
+logs/
+dags/__pycache__/
+dags/*.pyc
+dags/hello_dag.py
+
+# OS files
+.DS_Store
+Thumbs.db
