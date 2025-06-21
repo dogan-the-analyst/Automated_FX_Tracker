@@ -77,7 +77,7 @@ Tracks short-term vs long-term volatility:
 
 ## 🐳 Running with Docker
 
-`Automated FX Tracker\airflow-docker`
+`Automated_FX_Tracker\airflow-docker`
 ```bash
 docker compose up --build
 ```
